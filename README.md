@@ -16,7 +16,7 @@ Join IdeaSynergy today and unlock the power of collaboration to turn your ideas 
 Innovators, entrepreneurs, and visionaries are invited to create an "Issue" on IdeaSynergy to describe their project ideas, challenges, and goals. Think of the Issue as your project pitch – it's your opportunity to share your vision with the community and attract collaborators.
 
 ### Describe Your Problematic:
-Craft a compelling description of your project, outlining the problem you're addressing, your proposed solution, and the impact you hope to achieve. Be clear, concise, and passionate about your vision to capture the interest of potential collaborators.
+Craft a compelling description of your project, outlining the problem you're addressing, your proposed solution, and the impact you hope to achieve. Be clear, concise, and passionate about your vision to capture the interest of potential collaborators. And don't forget to use labels !
 
 ### Engage with the Community:
 Once your Issue is published, engage with the IdeaSynergy community by responding to comments, answering questions, and collaborating with interested developers. Use the comments section to provide additional context, clarify requirements, and foster discussions around your project.
