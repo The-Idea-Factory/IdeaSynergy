@@ -10,7 +10,7 @@ Join IdeaSynergy today and unlock the power of collaboration to turn your ideas 
 
 # How it works
 
-For Innovators:
+## For Innovators:
 
 Create an Issue:
 Innovators, entrepreneurs, and visionaries are invited to create an "Issue" on IdeaSynergy to describe their project ideas, challenges, and goals. Think of the Issue as your project pitch – it's your opportunity to share your vision with the community and attract collaborators.
@@ -24,7 +24,7 @@ Once your Issue is published, engage with the IdeaSynergy community by respondin
 Iterate and Collaborate:
 Iterate on your project idea based on feedback from the community and collaborate with developers who share your vision and passion. Use IdeaSynergy as a platform to build diverse and dynamic teams, leverage collective expertise, and transform your ideas into actionable projects.
 
-For Developers:
+## For Developers:
 
 Explore Issues:
 Developers seeking new projects for fun or collaboration can explore the "Issues" section on IdeaSynergy to discover exciting opportunities and innovative ideas. Browse through a variety of projects spanning different industries, technologies, and problem domains.
