@@ -16,7 +16,7 @@ Welcome to our community! To ensure a positive and productive environment, we as
 
 ## Reporting Violations
 
-If you witness or experience behavior that violates this Code of Conduct, please report it to the project maintainers immediately by contacting [contact@example.com](mailto:contact@example.com). All reports will be reviewed and addressed promptly and confidentially.
+If you witness or experience behavior that violates this Code of Conduct, please report it to the project maintainers immediately by contacting [the-idea-factory@outlook.com](mailto:the-idea-factory@outlook.com). All reports will be reviewed and addressed promptly and confidentially.
 
 ## Enforcement
 
